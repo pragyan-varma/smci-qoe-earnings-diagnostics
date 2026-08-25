@@ -1,0 +1,13 @@
+statement,line_item,period,value_usd_thousands,source_doc,source_ref,provenance
+BS,Lines of credit and current portion of term loans,FY2025,75060,SMCI FY2025 10-K,Consolidated Balance Sheets,FILED
+BS,Lines of credit and current portion of term loans,FY2024,402346,SMCI FY2025 10-K,Consolidated Balance Sheets,FILED
+BS,Term loans non-current,FY2025,37415,SMCI FY2025 10-K,Consolidated Balance Sheets,FILED
+BS,Term loans non-current,FY2024,74083,SMCI FY2025 10-K,Consolidated Balance Sheets,FILED
+BS,Convertible notes,FY2025,4645178,SMCI FY2025 10-K,Consolidated Balance Sheets (XBRL ConvertibleLongTermNotesPayable),FILED
+BS,Convertible notes,FY2024,1697716,SMCI FY2025 10-K,Consolidated Balance Sheets (XBRL ConvertibleLongTermNotesPayable),FILED
+BS,Convertible notes,FY2023,0,SMCI FY2024 10-K,No convertibles outstanding pre-FY2024,FILED
+BS,Non-controlling interest,FY2025,178,SMCI FY2025 10-K,Consolidated Balance Sheets (XBRL MinorityInterest),FILED
+BS,Non-controlling interest,FY2024,164,SMCI FY2025 10-K,Consolidated Balance Sheets (XBRL MinorityInterest),FILED
+BS,Total equity incl. NCI,FY2025,6301871,SMCI FY2025 10-K,Consolidated Balance Sheets (XBRL StockholdersEquityIncludingNCI),FILED
+BS,Total equity incl. NCI,FY2024,5417370,SMCI FY2025 10-K,Consolidated Balance Sheets (XBRL StockholdersEquityIncludingNCI),FILED
+BS,Long-term debt noncurrent (legacy term loans),FY2023,120179,SMCI FY2024 10-K,Consolidated Balance Sheets (XBRL LongTermDebtNoncurrent),FILED

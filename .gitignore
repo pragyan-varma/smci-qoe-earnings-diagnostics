@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Keep source data and outputs committed (they are the audit trail and the deliverables).
+# Nothing in data/ or outputs/ is ignored.

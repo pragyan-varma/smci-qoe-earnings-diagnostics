@@ -1,0 +1,39 @@
+statement,line_item,period,value_usd_thousands,source_doc,source_ref,provenance
+IS,Sales and marketing,FY2025,273139,SMCI FY2025 10-K,Consolidated Statements of Operations (XBRL SellingAndMarketingExpense),FILED
+IS,Sales and marketing,FY2024,189738,SMCI FY2025 10-K,Consolidated Statements of Operations (XBRL SellingAndMarketingExpense),FILED
+IS,Sales and marketing,FY2023,115025,SMCI FY2025 10-K,Consolidated Statements of Operations (XBRL SellingAndMarketingExpense),FILED
+IS,General and administrative,FY2025,267239,SMCI FY2025 10-K,Consolidated Statements of Operations (XBRL GeneralAndAdministrativeExpense),FILED
+IS,General and administrative,FY2024,197350,SMCI FY2025 10-K,Consolidated Statements of Operations (XBRL GeneralAndAdministrativeExpense),FILED
+IS,General and administrative,FY2023,99585,SMCI FY2025 10-K,Consolidated Statements of Operations (XBRL GeneralAndAdministrativeExpense),FILED
+IS,Share of income (loss) from equity investee net of tax,FY2025,-6200,SMCI FY2025 10-K,Consolidated Statements of Operations,FILED
+IS,Share of income (loss) from equity investee net of tax,FY2024,1800,SMCI FY2025 10-K,Consolidated Statements of Operations,FILED
+IS,Share of income (loss) from equity investee net of tax,FY2023,-3600,SMCI FY2025 10-K,Consolidated Statements of Operations,FILED
+BS,Inventory - finished goods,FY2025,3465352,SMCI FY2025 10-K,"Note 6 Balance Sheet Components, Inventories",FILED
+BS,Inventory - finished goods,FY2024,3312768,SMCI FY2025 10-K,"Note 6 Balance Sheet Components, Inventories",FILED
+BS,Inventory - work in process,FY2025,674613,SMCI FY2025 10-K,"Note 6 Balance Sheet Components, Inventories",FILED
+BS,Inventory - work in process,FY2024,450993,SMCI FY2025 10-K,"Note 6 Balance Sheet Components, Inventories",FILED
+BS,Inventory - purchased parts and raw materials,FY2025,540410,SMCI FY2025 10-K,"Note 6 Balance Sheet Components, Inventories",FILED
+BS,Inventory - purchased parts and raw materials,FY2024,569268,SMCI FY2025 10-K,"Note 6 Balance Sheet Components, Inventories",FILED
+BS,Inventory - E&O reserve,FY2025,,SMCI FY2025 10-K,Note 6 - NOT SEPARATELY DISCLOSED (inventory stated net; disclosure gap),NOT_DISCLOSED
+NOTE,Related party COGS - Ablecom,FY2025,321866,SMCI FY2025 10-K,Related Party Transactions note,FILED
+NOTE,Related party COGS - Ablecom,FY2024,269256,SMCI FY2025 10-K,Related Party Transactions note,FILED
+NOTE,Related party COGS - Ablecom,FY2023,167801,SMCI FY2025 10-K,Related Party Transactions note,FILED
+NOTE,Related party COGS - Compuware,FY2025,328258,SMCI FY2025 10-K,Related Party Transactions note,FILED
+NOTE,Related party COGS - Compuware,FY2024,280801,SMCI FY2025 10-K,Related Party Transactions note,FILED
+NOTE,Related party COGS - Compuware,FY2023,216961,SMCI FY2025 10-K,Related Party Transactions note,FILED
+NOTE,Related party COGS - Leadtek,FY2025,534,SMCI FY2025 10-K,Related Party Transactions note,FILED
+NOTE,Related party COGS - Leadtek,FY2024,2079,SMCI FY2025 10-K,Related Party Transactions note,FILED
+NOTE,Related party COGS - total,FY2025,650658,SMCI FY2025 10-K,Related Party Transactions note,FILED
+NOTE,Related party COGS - total,FY2024,552136,SMCI FY2025 10-K,Related Party Transactions note,FILED
+NOTE,Related party COGS - total,FY2023,384762,SMCI FY2025 10-K,Related Party Transactions note,FILED
+NOTE,Related party net sales - total,FY2025,42259,SMCI FY2025 10-K,Related Party Transactions note,FILED
+NOTE,Related party net sales - total,FY2024,69791,SMCI FY2025 10-K,Related Party Transactions note,FILED
+NOTE,Related party net sales - total,FY2023,60537,SMCI FY2025 10-K,Related Party Transactions note,FILED
+NOTE,Related party AP balance - total,FY2025,129752,SMCI FY2025 10-K,Related Party Transactions note,FILED
+NOTE,Related party AP balance - total,FY2024,165295,SMCI FY2025 10-K,Related Party Transactions note,FILED
+NOTE,Related party AP balance - total,FY2023,89134,SMCI FY2025 10-K,Related Party Transactions note,FILED
+PROXY,Audit fees (Deloitte),FY2021,4405,SMCI DEF 14A (FY2022 proxy),Principal Accountant Fees and Services,FILED
+PROXY,Audit fees (Deloitte),FY2022,4488,SMCI DEF 14A (FY2022 proxy),Principal Accountant Fees and Services,FILED
+PROXY,Audit fees (BDO/Deloitte),FY2023,4756,SMCI DEF 14A (FY2025 proxy),Principal Accountant Fees and Services,FILED
+PROXY,Audit fees (BDO),FY2024,8578,SMCI DEF 14A (FY2025/FY2026 proxy),Principal Accountant Fees and Services,FILED
+PROXY,Audit fees (BDO),FY2025,8084,SMCI DEF 14A (FY2026 proxy),Principal Accountant Fees and Services,FILED

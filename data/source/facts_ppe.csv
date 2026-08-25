@@ -1,0 +1,7 @@
+statement,line_item,period,value_usd_thousands,source_doc,source_ref,provenance
+BS,Property plant and equipment net,FY2023,290240,SMCI FY2024 10-K,Consolidated Balance Sheets (XBRL PropertyPlantAndEquipmentNet),FILED
+BS,Property plant and equipment net,FY2024,414008,SMCI FY2025 10-K,Consolidated Balance Sheets (XBRL PropertyPlantAndEquipmentNet),FILED
+BS,Property plant and equipment net,FY2025,504488,SMCI FY2025 10-K,Consolidated Balance Sheets (XBRL PropertyPlantAndEquipmentNet),FILED
+BS,Property plant and equipment gross,FY2023,479627,SMCI FY2024 10-K,PP&E note (XBRL PropertyPlantAndEquipmentGross),FILED
+BS,Property plant and equipment gross,FY2024,627904,SMCI FY2025 10-K,PP&E note (XBRL PropertyPlantAndEquipmentGross),FILED
+BS,Property plant and equipment gross,FY2025,622733,SMCI FY2025 10-K,PP&E note (XBRL PropertyPlantAndEquipmentGross),FILED

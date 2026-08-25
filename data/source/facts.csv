@@ -1,0 +1,253 @@
+statement,line_item,concept,period,value,units,form,accession,source_url,provenance
+BS,Accounts payable,AccountsPayableCurrent,FY2023,776831000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+BS,Accounts payable,AccountsPayableCurrent,FY2024,1472381000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+BS,Accounts payable,AccountsPayableCurrent,FY2025,1281977000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+BS,Accounts payable,AccountsPayableCurrent,Q/E 2024-09-30,1682968000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+BS,Accounts payable,AccountsPayableCurrent,Q/E 2024-12-31,549323000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+BS,Accounts payable,AccountsPayableCurrent,Q/E 2025-03-31,643050000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+BS,Accounts payable,AccountsPayableCurrent,Q/E 2025-09-30,1279667000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+BS,Accounts payable,AccountsPayableCurrent,Q/E 2025-12-31,13753207000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+BS,Accounts payable,AccountsPayableCurrent,Q/E 2026-03-31,3686991000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+BS,"Accounts receivable, net",AccountsReceivableNetCurrent,FY2023,1148259000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+BS,"Accounts receivable, net",AccountsReceivableNetCurrent,FY2024,2737331000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+BS,"Accounts receivable, net",AccountsReceivableNetCurrent,FY2025,2203942000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+BS,"Accounts receivable, net",AccountsReceivableNetCurrent,Q/E 2024-09-30,2731740000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+BS,"Accounts receivable, net",AccountsReceivableNetCurrent,Q/E 2024-12-31,3059510000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+BS,"Accounts receivable, net",AccountsReceivableNetCurrent,Q/E 2025-03-31,2642556000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+BS,"Accounts receivable, net",AccountsReceivableNetCurrent,Q/E 2025-09-30,2525039000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+BS,"Accounts receivable, net",AccountsReceivableNetCurrent,Q/E 2025-12-31,11004122000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+BS,"Accounts receivable, net",AccountsReceivableNetCurrent,Q/E 2026-03-31,8413396000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+BS,Accrued liabilities,AccruedLiabilitiesCurrent,FY2023,163865000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+BS,Accrued liabilities,AccruedLiabilitiesCurrent,FY2024,259674000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+BS,Accrued liabilities,AccruedLiabilitiesCurrent,FY2025,565637000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+BS,Accrued liabilities,AccruedLiabilitiesCurrent,Q/E 2024-09-30,308777000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+BS,Accrued liabilities,AccruedLiabilitiesCurrent,Q/E 2024-12-31,229147000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+BS,Accrued liabilities,AccruedLiabilitiesCurrent,Q/E 2025-03-31,344679000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+BS,Accrued liabilities,AccruedLiabilitiesCurrent,Q/E 2025-09-30,313393000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+BS,Accrued liabilities,AccruedLiabilitiesCurrent,Q/E 2025-12-31,548179000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+BS,Accrued liabilities,AccruedLiabilitiesCurrent,Q/E 2026-03-31,830007000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+BS,Total assets,Assets,FY2023,3674729000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+BS,Total assets,Assets,FY2024,9826092000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+BS,Total assets,Assets,FY2025,14018429000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+BS,Total assets,Assets,Q/E 2024-09-30,10851383000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+BS,Total assets,Assets,Q/E 2024-12-31,9728348000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+BS,Total assets,Assets,Q/E 2025-03-31,10738525000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+BS,Total assets,Assets,Q/E 2025-09-30,14386037000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+BS,Total assets,Assets,Q/E 2025-12-31,28001610000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+BS,Total assets,Assets,Q/E 2026-03-31,23452029000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+BS,Total current assets,AssetsCurrent,FY2023,3179426000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+BS,Total current assets,AssetsCurrent,FY2024,8931960000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+BS,Total current assets,AssetsCurrent,FY2025,12301654000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+BS,Total current assets,AssetsCurrent,Q/E 2024-09-30,9851584000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+BS,Total current assets,AssetsCurrent,Q/E 2024-12-31,8667070000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+BS,Total current assets,AssetsCurrent,Q/E 2025-03-31,9513589000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+BS,Total current assets,AssetsCurrent,Q/E 2025-09-30,12661334000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+BS,Total current assets,AssetsCurrent,Q/E 2025-12-31,26124597000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+BS,Total current assets,AssetsCurrent,Q/E 2026-03-31,21568286000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+BS,Cash & equivalents,CashAndCashEquivalentsAtCarryingValue,FY2023,440459000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+BS,Cash & equivalents,CashAndCashEquivalentsAtCarryingValue,FY2024,1669766000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+BS,Cash & equivalents,CashAndCashEquivalentsAtCarryingValue,FY2025,5169911000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+BS,Cash & equivalents,CashAndCashEquivalentsAtCarryingValue,Q/E 2024-09-30,2088718000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+BS,Cash & equivalents,CashAndCashEquivalentsAtCarryingValue,Q/E 2024-12-31,1430002000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+BS,Cash & equivalents,CashAndCashEquivalentsAtCarryingValue,Q/E 2025-03-31,2536101000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+BS,Cash & equivalents,CashAndCashEquivalentsAtCarryingValue,Q/E 2025-09-30,4196867000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+BS,Cash & equivalents,CashAndCashEquivalentsAtCarryingValue,Q/E 2025-12-31,4091083000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+BS,Cash & equivalents,CashAndCashEquivalentsAtCarryingValue,Q/E 2026-03-31,1290324000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+BS,"Deferred revenue, current",ContractWithCustomerLiabilityCurrent,FY2023,134667000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+BS,"Deferred revenue, current",ContractWithCustomerLiabilityCurrent,FY2024,193052000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+BS,"Deferred revenue, current",ContractWithCustomerLiabilityCurrent,FY2025,368737000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+BS,"Deferred revenue, current",ContractWithCustomerLiabilityCurrent,Q/E 2024-09-30,305840000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+BS,"Deferred revenue, current",ContractWithCustomerLiabilityCurrent,Q/E 2024-12-31,309238000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+BS,"Deferred revenue, current",ContractWithCustomerLiabilityCurrent,Q/E 2025-03-31,352803000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+BS,"Deferred revenue, current",ContractWithCustomerLiabilityCurrent,Q/E 2025-09-30,597322000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+BS,"Deferred revenue, current",ContractWithCustomerLiabilityCurrent,Q/E 2025-12-31,774846000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+BS,"Deferred revenue, current",ContractWithCustomerLiabilityCurrent,Q/E 2026-03-31,1472235000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+BS,"Inventories, gross",InventoryGross,,,NOT_TAGGED,,,,FILED?
+BS,"Inventories, net",InventoryNet,FY2023,1445564000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+BS,"Inventories, net",InventoryNet,FY2024,4333029000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+BS,"Inventories, net",InventoryNet,FY2025,4680375000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+BS,"Inventories, net",InventoryNet,Q/E 2024-09-30,4930623000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+BS,"Inventories, net",InventoryNet,Q/E 2024-12-31,3596145000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+BS,"Inventories, net",InventoryNet,Q/E 2025-03-31,3870243000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+BS,"Inventories, net",InventoryNet,Q/E 2025-09-30,5730002000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+BS,"Inventories, net",InventoryNet,Q/E 2025-12-31,10595448000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+BS,"Inventories, net",InventoryNet,Q/E 2026-03-31,11103376000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+BS,Total liabilities,Liabilities,FY2023,1702559000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+BS,Total liabilities,Liabilities,FY2024,4408722000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+BS,Total liabilities,Liabilities,FY2025,7716558000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+BS,Total liabilities,Liabilities,Q/E 2024-09-30,4974466000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+BS,Total liabilities,Liabilities,Q/E 2024-12-31,3489882000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+BS,Total liabilities,Liabilities,Q/E 2025-03-31,4359046000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+BS,Total liabilities,Liabilities,Q/E 2025-09-30,7862477000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+BS,Total liabilities,Liabilities,Q/E 2025-12-31,21009433000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+BS,Total liabilities,Liabilities,Q/E 2026-03-31,15876438000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+BS,Total liabilities & equity,LiabilitiesAndStockholdersEquity,FY2023,3674729000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+BS,Total liabilities & equity,LiabilitiesAndStockholdersEquity,FY2024,9826092000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+BS,Total liabilities & equity,LiabilitiesAndStockholdersEquity,FY2025,14018429000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+BS,Total liabilities & equity,LiabilitiesAndStockholdersEquity,Q/E 2024-09-30,10851383000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+BS,Total liabilities & equity,LiabilitiesAndStockholdersEquity,Q/E 2024-12-31,9728348000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+BS,Total liabilities & equity,LiabilitiesAndStockholdersEquity,Q/E 2025-03-31,10738525000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+BS,Total liabilities & equity,LiabilitiesAndStockholdersEquity,Q/E 2025-09-30,14386037000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+BS,Total liabilities & equity,LiabilitiesAndStockholdersEquity,Q/E 2025-12-31,28001610000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+BS,Total liabilities & equity,LiabilitiesAndStockholdersEquity,Q/E 2026-03-31,23452029000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+BS,Total current liabilities,LiabilitiesCurrent,FY2023,1374652000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+BS,Total current liabilities,LiabilitiesCurrent,FY2024,2345721000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+BS,Total current liabilities,LiabilitiesCurrent,FY2025,2344792000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+BS,Total current liabilities,LiabilitiesCurrent,Q/E 2024-09-30,2871101000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+BS,Total current liabilities,LiabilitiesCurrent,Q/E 2024-12-31,1357810000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+BS,Total current liabilities,LiabilitiesCurrent,Q/E 2025-03-31,1428136000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+BS,Total current liabilities,LiabilitiesCurrent,Q/E 2025-09-30,2347235000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+BS,Total current liabilities,LiabilitiesCurrent,Q/E 2025-12-31,15396708000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+BS,Total current liabilities,LiabilitiesCurrent,Q/E 2026-03-31,8122635000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+BS,"Long-term debt, noncurrent",LongTermDebtNoncurrent,FY2023,120179000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+BS,Prepaid & other current assets,PrepaidExpenseAndOtherAssetsCurrent,FY2023,145144000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+BS,Prepaid & other current assets,PrepaidExpenseAndOtherAssetsCurrent,FY2024,191834000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+BS,Prepaid & other current assets,PrepaidExpenseAndOtherAssetsCurrent,FY2025,247426000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+BS,Prepaid & other current assets,PrepaidExpenseAndOtherAssetsCurrent,Q/E 2024-09-30,100503000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+BS,Prepaid & other current assets,PrepaidExpenseAndOtherAssetsCurrent,Q/E 2024-12-31,581413000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+BS,Prepaid & other current assets,PrepaidExpenseAndOtherAssetsCurrent,Q/E 2025-03-31,464689000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+BS,Prepaid & other current assets,PrepaidExpenseAndOtherAssetsCurrent,Q/E 2025-09-30,209426000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+BS,Prepaid & other current assets,PrepaidExpenseAndOtherAssetsCurrent,Q/E 2025-12-31,433944000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+BS,Prepaid & other current assets,PrepaidExpenseAndOtherAssetsCurrent,Q/E 2026-03-31,761190000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+BS,Short-term investments,ShortTermInvestments,,,NOT_TAGGED,,,,FILED?
+BS,Total stockholders' equity,StockholdersEquity,FY2023,1972005000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+BS,Total stockholders' equity,StockholdersEquity,FY2024,5417206000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+BS,Total stockholders' equity,StockholdersEquity,FY2025,6301693000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+BS,Total stockholders' equity,StockholdersEquity,Q/E 2024-09-30,5876754000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+BS,Total stockholders' equity,StockholdersEquity,Q/E 2024-12-31,6238307000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+BS,Total stockholders' equity,StockholdersEquity,Q/E 2025-03-31,6379319000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+BS,Total stockholders' equity,StockholdersEquity,Q/E 2025-09-30,6523390000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+BS,Total stockholders' equity,StockholdersEquity,Q/E 2025-12-31,6992015000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+BS,Total stockholders' equity,StockholdersEquity,Q/E 2026-03-31,7575430000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+CF,"D&A + accretion (cash flow, alt)",DepreciationAmortizationAndAccretionNet,,,NOT_TAGGED,,,,FILED?
+CF,D&A (cash flow),DepreciationDepletionAndAmortization,FY2023,34904000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+CF,D&A (cash flow),DepreciationDepletionAndAmortization,FY2024,30100000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+CF,D&A (cash flow),DepreciationDepletionAndAmortization,FY2025,41000000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+CF,D&A (cash flow),DepreciationDepletionAndAmortization,Q/E 2024-09-30,9000000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+CF,D&A (cash flow),DepreciationDepletionAndAmortization,Q/E 2024-12-31,9500000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+CF,D&A (cash flow),DepreciationDepletionAndAmortization,Q/E 2025-03-31,10900000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+CF,D&A (cash flow),DepreciationDepletionAndAmortization,Q/E 2025-09-30,12100000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+CF,D&A (cash flow),DepreciationDepletionAndAmortization,Q/E 2025-12-31,12800000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+CF,D&A (cash flow),DepreciationDepletionAndAmortization,Q/E 2026-03-31,13500000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+CF,Change in payables,IncreaseDecreaseInAccountsPayable,FY2023,127135000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+CF,Change in payables,IncreaseDecreaseInAccountsPayable,FY2024,679190000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+CF,Change in payables,IncreaseDecreaseInAccountsPayable,FY2025,-180968000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+CF,Change in payables,IncreaseDecreaseInAccountsPayable,Q/E 2024-09-30,220353000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+CF,Change in payables,IncreaseDecreaseInAccountsPayable,Q/E 2025-09-30,901000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+CF,Change in receivables,IncreaseDecreaseInAccountsReceivable,FY2023,311897000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+CF,Change in receivables,IncreaseDecreaseInAccountsReceivable,FY2024,1589187000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+CF,Change in receivables,IncreaseDecreaseInAccountsReceivable,FY2025,-533341000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+CF,Change in receivables,IncreaseDecreaseInAccountsReceivable,Q/E 2024-09-30,-15288000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+CF,Change in receivables,IncreaseDecreaseInAccountsReceivable,Q/E 2025-09-30,321244000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+CF,Change in inventories,IncreaseDecreaseInInventories,FY2023,-100042000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+CF,Change in inventories,IncreaseDecreaseInInventories,FY2024,2899996000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+CF,Change in inventories,IncreaseDecreaseInInventories,FY2025,355606000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+CF,Change in inventories,IncreaseDecreaseInInventories,Q/E 2024-09-30,597717000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+CF,Change in inventories,IncreaseDecreaseInInventories,Q/E 2025-09-30,1087010000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+CF,Operating cash flow,NetCashProvidedByUsedInOperatingActivities,FY2023,663580000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+CF,Operating cash flow,NetCashProvidedByUsedInOperatingActivities,FY2024,-2485972000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+CF,Operating cash flow,NetCashProvidedByUsedInOperatingActivities,FY2025,1659524000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+CF,Operating cash flow,NetCashProvidedByUsedInOperatingActivities,Q/E 2024-09-30,408904000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+CF,Operating cash flow,NetCashProvidedByUsedInOperatingActivities,Q/E 2025-09-30,-917523000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+CF,Capital expenditures,PaymentsToAcquirePropertyPlantAndEquipment,FY2023,36793000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+CF,Capital expenditures,PaymentsToAcquirePropertyPlantAndEquipment,FY2024,124279000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+CF,Capital expenditures,PaymentsToAcquirePropertyPlantAndEquipment,FY2025,127214000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+CF,Capital expenditures,PaymentsToAcquirePropertyPlantAndEquipment,Q/E 2024-09-30,44300000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+CF,Capital expenditures,PaymentsToAcquirePropertyPlantAndEquipment,Q/E 2025-09-30,32270000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+CF,Stock-based compensation,ShareBasedCompensation,FY2023,54433000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+CF,Stock-based compensation,ShareBasedCompensation,FY2024,231507000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+CF,Stock-based compensation,ShareBasedCompensation,FY2025,314452000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+CF,Stock-based compensation,ShareBasedCompensation,Q/E 2024-09-30,64014000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+CF,Stock-based compensation,ShareBasedCompensation,Q/E 2025-09-30,89139000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+IS,Cost of revenue,CostOfGoodsAndServicesSold,,,NOT_TAGGED,,,,FILED?
+IS,Cost of revenue (alt tag),CostOfRevenue,FY2023,5840470000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+IS,Cost of revenue (alt tag),CostOfRevenue,FY2024,12927841000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+IS,Cost of revenue (alt tag),CostOfRevenue,FY2025,19542120000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+IS,Cost of revenue (alt tag),CostOfRevenue,Q/E 2024-09-30,5161676000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+IS,Cost of revenue (alt tag),CostOfRevenue,Q/E 2024-12-31,5007940000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+IS,Cost of revenue (alt tag),CostOfRevenue,Q/E 2025-03-31,4159695000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+IS,Cost of revenue (alt tag),CostOfRevenue,Q/E 2025-09-30,4550417000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+IS,Cost of revenue (alt tag),CostOfRevenue,Q/E 2025-12-31,11883924000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+IS,Cost of revenue (alt tag),CostOfRevenue,Q/E 2026-03-31,9224334000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+IS,Gross profit,GrossProfit,FY2023,1283012000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+IS,Gross profit,GrossProfit,FY2024,2061410000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+IS,Gross profit,GrossProfit,FY2025,2429922000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+IS,Gross profit,GrossProfit,Q/E 2024-09-30,775580000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+IS,Gross profit,GrossProfit,Q/E 2024-12-31,670022000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+IS,Gross profit,GrossProfit,Q/E 2025-03-31,440218000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+IS,Gross profit,GrossProfit,Q/E 2025-09-30,467373000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+IS,Gross profit,GrossProfit,Q/E 2025-12-31,798567000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+IS,Gross profit,GrossProfit,Q/E 2026-03-31,1018680000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+IS,Pre-tax income,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,FY2023,754297000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+IS,Pre-tax income,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,FY2024,1214139000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+IS,Pre-tax income,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,FY2025,1211916000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+IS,Pre-tax income,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,Q/E 2024-09-30,499078000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+IS,Pre-tax income,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,Q/E 2024-12-31,375048000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+IS,Pre-tax income,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,Q/E 2025-03-31,115065000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+IS,Pre-tax income,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,Q/E 2025-09-30,208552000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+IS,Pre-tax income,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,Q/E 2025-12-31,500207000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+IS,Pre-tax income,IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,Q/E 2026-03-31,610969000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+IS,Income tax expense,IncomeTaxExpenseBenefit,FY2023,110666000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+IS,Income tax expense,IncomeTaxExpenseBenefit,FY2024,63294000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+IS,Income tax expense,IncomeTaxExpenseBenefit,FY2025,156851000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+IS,Income tax expense,IncomeTaxExpenseBenefit,Q/E 2024-09-30,74732000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+IS,Income tax expense,IncomeTaxExpenseBenefit,Q/E 2024-12-31,56969000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+IS,Income tax expense,IncomeTaxExpenseBenefit,Q/E 2025-03-31,5843000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+IS,Income tax expense,IncomeTaxExpenseBenefit,Q/E 2025-09-30,40161000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+IS,Income tax expense,IncomeTaxExpenseBenefit,Q/E 2025-12-31,99151000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+IS,Income tax expense,IncomeTaxExpenseBenefit,Q/E 2026-03-31,126887000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+IS,Interest expense,InterestExpense,FY2023,10491000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+IS,Interest expense (nonoperating),InterestExpenseNonoperating,FY2023,10491000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+IS,Interest expense (nonoperating),InterestExpenseNonoperating,FY2024,19352000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+IS,Interest expense (nonoperating),InterestExpenseNonoperating,FY2025,59573000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+IS,Interest expense (nonoperating),InterestExpenseNonoperating,Q/E 2024-09-30,17354000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+IS,Interest expense (nonoperating),InterestExpenseNonoperating,Q/E 2024-12-31,6535000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+IS,Interest expense (nonoperating),InterestExpenseNonoperating,Q/E 2025-03-31,13402000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+IS,Interest expense (nonoperating),InterestExpenseNonoperating,Q/E 2025-09-30,24931000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+IS,Interest expense (nonoperating),InterestExpenseNonoperating,Q/E 2025-12-31,25358000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+IS,Interest expense (nonoperating),InterestExpenseNonoperating,Q/E 2026-03-31,64483000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+IS,Interest income,InvestmentIncomeInterest,Q/E 2024-12-31,8776000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+IS,Interest income,InvestmentIncomeInterest,Q/E 2025-03-31,14654000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+IS,Interest income,InvestmentIncomeInterest,Q/E 2025-12-31,51042000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+IS,Interest income,InvestmentIncomeInterest,Q/E 2026-03-31,45437000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+IS,Net income,NetIncomeLoss,FY2023,639998000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+IS,Net income,NetIncomeLoss,FY2024,1152666000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+IS,Net income,NetIncomeLoss,FY2025,1048854000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+IS,Net income,NetIncomeLoss,Q/E 2024-09-30,424327000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+IS,Net income,NetIncomeLoss,Q/E 2024-12-31,320596000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+IS,Net income,NetIncomeLoss,Q/E 2025-03-31,108777000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+IS,Net income,NetIncomeLoss,Q/E 2025-09-30,168285000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+IS,Net income,NetIncomeLoss,Q/E 2025-12-31,400564000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+IS,Net income,NetIncomeLoss,Q/E 2026-03-31,483387000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+IS,Operating income,OperatingIncomeLoss,FY2023,761142000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+IS,Operating income,OperatingIncomeLoss,FY2024,1210774000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+IS,Operating income,OperatingIncomeLoss,FY2025,1252994000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+IS,Operating income,OperatingIncomeLoss,Q/E 2024-09-30,509199000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+IS,Operating income,OperatingIncomeLoss,Q/E 2024-12-31,368624000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+IS,Operating income,OperatingIncomeLoss,Q/E 2025-03-31,146780000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+IS,Operating income,OperatingIncomeLoss,Q/E 2025-09-30,182256000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+IS,Operating income,OperatingIncomeLoss,Q/E 2025-12-31,474298000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+IS,Operating income,OperatingIncomeLoss,Q/E 2026-03-31,625868000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+IS,Other non-operating income/expense,OtherNonoperatingIncomeExpense,Q/E 2024-12-31,4183000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+IS,Other non-operating income/expense,OtherNonoperatingIncomeExpense,Q/E 2025-03-31,-32967000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+IS,Other non-operating income/expense,OtherNonoperatingIncomeExpense,Q/E 2025-12-31,225000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+IS,Other non-operating income/expense,OtherNonoperatingIncomeExpense,Q/E 2026-03-31,4147000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+IS,R&D expense,ResearchAndDevelopmentExpense,FY2023,307260000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+IS,R&D expense,ResearchAndDevelopmentExpense,FY2024,463548000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+IS,R&D expense,ResearchAndDevelopmentExpense,FY2025,636550000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+IS,R&D expense,ResearchAndDevelopmentExpense,Q/E 2024-09-30,132243000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+IS,R&D expense,ResearchAndDevelopmentExpense,Q/E 2024-12-31,158229000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+IS,R&D expense,ResearchAndDevelopmentExpense,Q/E 2025-03-31,162857000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+IS,R&D expense,ResearchAndDevelopmentExpense,Q/E 2025-09-30,173314000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+IS,R&D expense,ResearchAndDevelopmentExpense,Q/E 2025-12-31,180761000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+IS,R&D expense,ResearchAndDevelopmentExpense,Q/E 2026-03-31,215659000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+IS,Revenue,RevenueFromContractWithCustomerExcludingAssessedTax,FY2023,7123482000,USD,10-K,0001375365-23-000036,https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm,FILED
+IS,Revenue,RevenueFromContractWithCustomerExcludingAssessedTax,FY2024,14989251000,USD,10-K,0001375365-25-000004,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm,FILED
+IS,Revenue,RevenueFromContractWithCustomerExcludingAssessedTax,FY2025,21972042000,USD,10-K,0001375365-25-000027,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm,FILED
+IS,Revenue,RevenueFromContractWithCustomerExcludingAssessedTax,Q/E 2024-09-30,5937256000,USD,10-Q,0001375365-25-000005,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000005/smci-20240930.htm,FILED
+IS,Revenue,RevenueFromContractWithCustomerExcludingAssessedTax,Q/E 2024-12-31,5677962000,USD,10-Q,0001375365-25-000006,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000006/smci-20241231.htm,FILED
+IS,Revenue,RevenueFromContractWithCustomerExcludingAssessedTax,Q/E 2025-03-31,4599913000,USD,10-Q,0001375365-25-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000014/smci-20250331.htm,FILED
+IS,Revenue,RevenueFromContractWithCustomerExcludingAssessedTax,Q/E 2025-09-30,5017790000,USD,10-Q,0001375365-25-000030,https://www.sec.gov/Archives/edgar/data/1375365/000137536525000030/smci-20250930.htm,FILED
+IS,Revenue,RevenueFromContractWithCustomerExcludingAssessedTax,Q/E 2025-12-31,12682491000,USD,10-Q,0001375365-26-000007,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000007/smci-20251231.htm,FILED
+IS,Revenue,RevenueFromContractWithCustomerExcludingAssessedTax,Q/E 2026-03-31,10243014000,USD,10-Q,0001375365-26-000014,https://www.sec.gov/Archives/edgar/data/1375365/000137536526000014/smci-20260331.htm,FILED
+IS,SG&A expense,SellingGeneralAndAdministrativeExpense,,,NOT_TAGGED,,,,FILED?

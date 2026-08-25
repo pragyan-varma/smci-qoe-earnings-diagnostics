@@ -1,0 +1,112 @@
+# SMCI QoE — EBITDA bridge adjustments (declarative).
+#
+# Every adjustment MUST carry a rationale, a counterargument, and a market_practice verdict.
+# The bridge engine refuses to load one that doesn't. That discipline mirrors the interview.
+#
+# Fields:
+#   tier         : management | diligence
+#   treatment    : ACCEPT | REJECT | SENSITIVITY | BOTH
+#                    ACCEPT      -> booked into the diligence-adjusted number
+#                    REJECT      -> shown as a management add-back we remove (reverses a seller add-back)
+#                    SENSITIVITY -> not booked; shown as a range (exposure, not a point estimate)
+#                    BOTH        -> presented on two bases (used for SBC)
+#   direction    : add_back (+) | deduct (-)
+#   basis        : FILED | DERIVED | ASSUMPTION
+#   source_fact  : pull per-period values from the FactSet by this line_item (single source of truth)
+#   values       : explicit {period: usd} — use ONLY when not a FactSet line; null = unquantifiable
+#
+# NOTE: "management" tier here means SBC, which SMCI excludes in its own non-GAAP presentation.
+#       Confirm SMCI's exact non-GAAP reconciliation from the earnings release before calling any
+#       subtotal "Management Adjusted EBITDA" verbatim; the structure is correct regardless.
+
+- id: ADJ-001
+  name: Stock-based compensation
+  tier: management
+  treatment: BOTH
+  direction: add_back
+  basis: FILED
+  source_fact: "Stock-based compensation"
+  market_practice: contested
+  rationale: >
+    Non-cash and excluded from SMCI's own non-GAAP measures; comparable-company multiples are
+    typically struck on an SBC-excluded basis, so excluding it keeps metric and multiple consistent.
+  counterargument: >
+    SBC is real compensation. Strip it out and you must replace it with cash to retain engineers,
+    so it is a recurring economic cost; it also dilutes the buyer. Present BOTH bases and show the
+    dilution separately — do not treat it as a free add-back.
+
+- id: ADJ-002
+  name: Incremental audit fees (accounting-crisis, vs FY2022 pre-crisis baseline)
+  tier: diligence
+  treatment: ACCEPT
+  direction: add_back
+  basis: FILED
+  # FY2024 audit fees 8,578k less FY2022 baseline 4,488k = 4,090k; FY2025 8,084k - 4,488k = 3,596k.
+  values:
+    FY2024: 4090000
+    FY2025: 3596000
+  market_practice: standard
+  rationale: >
+    Discrete, non-recurring incremental audit cost from the crisis, sourced hard from the proxy
+    "Principal Accountant Fees and Services" tables. A FLOOR on crisis cost, not the total.
+  counterargument: >
+    Seller: obviously non-recurring, the investigation is over. Buy-side: accept the incremental
+    AUDIT fee only; the far larger forensic/legal/consulting costs sit unquantifiably in G&A, and
+    a permanently-compliant SMCI carries structurally higher ongoing audit fees than pre-crisis.
+
+- id: ADJ-003
+  name: Pro forma cost of a compliant finance function
+  tier: diligence
+  treatment: SENSITIVITY
+  direction: deduct
+  basis: ASSUMPTION
+  # LABELLED ASSUMPTION — range, benchmarked to a peer set, NOT booked as a point estimate.
+  values:
+    FY2025_low: -15000000
+    FY2025_high: -40000000
+  market_practice: standard
+  rationale: >
+    Remediating five material weaknesses is not one-time: permanent incremental accounting/internal
+    -audit headcount, a real SOX program, systems, and higher ongoing audit fees. A properly
+    controlled SMCI has a structurally higher G&A run-rate than it has ever had -> a NEGATIVE
+    adjustment. This is the clearest "think like a buyer" signal in the model.
+  counterargument: >
+    Seller: remediation is temporary project cost, not run-rate; scale absorbs it (G&A already
+    falling as a % of revenue). Buy-side answer: size it as a range benchmarked to peers and run
+    it as a sensitivity; make the compliant-cost build a Day-1 integration line item.
+
+- id: ADJ-004
+  name: Related-party pricing normalization (arm's-length COGS)
+  tier: diligence
+  treatment: SENSITIVITY
+  direction: deduct
+  basis: DERIVED
+  # Exposure = related-party COGS (sourced). Sensitivity = each 100bps of pricing benefit.
+  source_fact: "Related party COGS - total"
+  sensitivity_bps: 100
+  market_practice: standard_to_test
+  rationale: >
+    3.3%-6.6% of COGS runs through CEO-family-affiliated entities (Ablecom, Compuware). If they
+    supply below market, reported COGS is understated and EBITDA is subsidized by the founder's
+    family — a subsidy the buyer may not inherit.
+  counterargument: >
+    Seller: long-standing, fully disclosed, audit-committee-reviewed, priced at market. Buy-side:
+    quantify exposure + per-100bps sensitivity now; make an arm's-length benchmarking study a
+    condition precedent. Booking a specific number without the study is aggressive.
+
+- id: ADJ-005
+  name: Reverse management "non-recurring ramp cost" add-backs
+  tier: management
+  treatment: REJECT
+  direction: add_back
+  basis: FILED
+  values: null   # UNQUANTIFIABLE from public filings — requires management's non-GAAP schedule + GL
+  market_practice: standard_buyside
+  rationale: >
+    In a hardware business that has "ramped" for several consecutive years, expedite freight and
+    ramp inefficiency are the cost of operating, not an anomaly. Test: will this cost exist for the
+    buyer next year? If yes, it is not non-recurring.
+  counterargument: >
+    Seller: genuinely one-time ramp/expedite costs; margins normalize at scale. Buy-side: reject or
+    accept only a discrete, invoice-substantiated slice. Cannot be quantified from public data —
+    flagged as a scoped diligence request, not a booked number.
