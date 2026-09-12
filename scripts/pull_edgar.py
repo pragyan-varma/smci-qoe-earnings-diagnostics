@@ -16,7 +16,16 @@ import json, csv, os, urllib.request, time
 
 CIK = "0001375365"
 CIK_INT = "1375365"
-UA = {"User-Agent": "SMCI QoE Research pragyanv07@gmail.com"}
+
+# SEC requires a descriptive User-Agent with contact info on every request
+# (https://www.sec.gov/os/accessing-edgar-data). Set SEC_CONTACT_EMAIL before running.
+_CONTACT = os.environ.get("SEC_CONTACT_EMAIL")
+if not _CONTACT:
+    raise SystemExit(
+        "Set SEC_CONTACT_EMAIL first — SEC requires a contact address in the User-Agent header.\n"
+        "  export SEC_CONTACT_EMAIL='you@example.com'"
+    )
+UA = {"User-Agent": f"SMCI QoE Research {_CONTACT}"}
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(HERE, "data", "source")
 os.makedirs(SRC, exist_ok=True)

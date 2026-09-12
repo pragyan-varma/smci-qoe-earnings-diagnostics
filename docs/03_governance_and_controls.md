@@ -1,9 +1,9 @@
-# Findings — Auditor, Controls, and the Central Tension (VERIFIED)
+# Auditor, Internal Controls, and the Restatement Question
 
 Sources: FY2024 10-K, FY2023 10-K, 8-K filed 2024-10-30 (Item 4.01, Ex. 16.1). Facts extracted
 from filing text; interpretation flagged as such.
 
-## 1. Auditor timeline (corrected — EY signed nothing)
+## 1. Auditor timeline
 
 | Period | Auditor | Note |
 |---|---|---|
@@ -11,7 +11,9 @@ from filing text; interpretation flagged as such.
 | FY2024, engaged 3/15/2023 | **Ernst & Young** | Resigned 10/30/2024 **mid-engagement, never issued any report** on financials or ICFR |
 | FY2024 completed; since 2024 | **BDO USA, P.C.** (PCAOB 243) | Clean opinion on FY2024 financials; **adverse** opinion on ICFR. Of the comparatives, BDO audited **only the retrospective stock-split adjustment**, not FY23/22 as a whole |
 
-"Ernst & Young" appears 0 times in the FY2024 and FY2023 10-Ks. Never say "EY's opinions" — none exist.
+"Ernst & Young" appears nowhere in either the FY2024 or FY2023 10-K. No EY audit opinion on SMCI's
+financial statements exists, which is a distinction worth preserving: the resignation was an event,
+not the withdrawal of a prior opinion.
 
 ## 2. Why EY resigned (8-K Item 4.01, Ex. 16.1)
 
@@ -32,7 +34,7 @@ from filing text; interpretation flagged as such.
 pyramid — not to any number.** An auditor that cannot trust management representations cannot audit
 anything; the resignation was structurally unavoidable once EY reached that conclusion.
 
-## 3. The two opinions (both verified verbatim, dated 2/25/2025)
+## 3. The two opinions (dated 2025-02-25)
 
 - **Financial statements: UNQUALIFIED** — "present fairly, in all material respects... in conformity
   with [US GAAP]."
@@ -45,14 +47,15 @@ anything; the resignation was structurally unavoidable once EY reached that conc
 misstated?) → passed. ICFR test (was there a reasonable possibility a material misstatement would not
 be prevented/detected?) → failed. Two different questions; both answers true at once. Not a paradox.
 
-## 4. RESOLVED — the "retrospective adjustments" are the stock split (benign)
+## 4. The retrospective adjustments to FY2023/FY2022
 
-Earlier flagged as a possible hidden revision. **It is not.** The FY2023/FY2022 retrospective
-adjustments are the **10-for-1 stock split** (effective Oct 2024) applied retroactively to
-share/EPS figures. BDO audited only that adjustment to the prior years. **This is NOT a red flag** —
-do not present it as one. Intellectual honesty: we chased it, and it's a stock split.
+Deloitte's re-issued report on the comparative periods refers to "retrospective adjustments
+discussed in Note 1," which on its face could indicate a revision to previously reported figures.
+It does not. The adjustments are the **10-for-1 stock split** (effective October 2024) applied
+retroactively to share and per-share figures, and BDO audited only that adjustment to the prior
+years. This is not an accounting red flag and is not presented as one.
 
-## 5. The five material weaknesses → COSO mapping (our analytical contribution)
+## 5. The five material weaknesses mapped to COSO
 
 The 10-K lists them but does **not** map them. The mapping is the value-add:
 
@@ -64,19 +67,24 @@ The 10-K lists them but does **not** map them. The mapping is the value-add:
 | iv | Completeness/accuracy of information produced by the entity (IPE) not documented | Information & Communication | P13 |
 | v | No documented controls for timely/complete/accurate recording & disclosure — incl. **new leases and new related party transactions** | Control Activities + Info & Comm (2°: Monitoring) | P12; P13; P16/17 |
 
-**The killer point:** all five sit in **Control Activities** or **Information & Communication** —
-process-level. **None is disclosed as a Control Environment failure** — yet Control Environment
-(Principles 1–2: integrity and independent board oversight) is *exactly* what EY resigned over. **The
-10-K's disclosure and EY's stated reasons do not line up.** Item (v)'s explicit callout of **related
-party transactions** is the closest bridge between the disclosed (process) weaknesses and the
-undisclosed (entity-level) governance concern — and given the RP exposure we quantified (§ related
-party) and the short-seller allegations, that placement is not a coincidence.
+**The principal observation:** all five sit in **Control Activities** or **Information &
+Communication** — process-level. **None is disclosed as a Control Environment failure** — yet
+Control Environment (Principles 1–2: integrity and independent board oversight) is precisely what
+EY resigned over. The disclosed weaknesses and the stated reasons for the auditor's resignation do
+not align. Item (v)'s explicit reference to **related party transactions** is the closest bridge
+between the disclosed process-level weaknesses and the entity-level governance concern, which is
+notable given the related-party exposure quantified elsewhere in this analysis.
+
+The conclusion drawn is one of **sufficiency, not concealment**: the five disclosed weaknesses are
+necessary but arguably not sufficient to describe the condition the predecessor auditor identified.
+Remediating all five would not, on its face, resolve an entity-level governance concern. That is a
+diligence question rather than an allegation.
 
 Management's own language concedes the weaknesses could have increased risk of unauthorized system
 access, **data manipulation**, and incomplete/inaccurate information — fraud-adjacent exposure,
 described in the same filing that asserts the financials are fairly stated.
 
-## 6. The two CAMs → they validate our QoE scope exactly
+## 6. Critical Audit Matters
 
 1. **Valuation of inventories** ($4.33B at 6/30/2024, LCM/NRV). Judgment: **E&O write-down
    percentages** by category. BDO procedures: product-lifecycle inquiry; recomputing inventory turns
@@ -92,22 +100,26 @@ described in the same filing that asserts the financials are fairly stated.
    revenue **cutoff test** is precisely the confirmatory procedure we scoped and cannot run on public
    data.
 
-**Framing:** a broken control environment forces the auditor to expand substantive testing — BDO
-explicitly considered the weaknesses in setting the nature, timing, and extent of its tests. The
-CAMs are the auditor telling us, in writing, that inventory valuation and revenue cutoff are the two
-riskiest accounts. That is exactly our QoE scope, independently corroborated.
+Deficient controls force an auditor to expand substantive testing, and BDO states explicitly that
+it considered the material weaknesses in determining the nature, timing, and extent of its
+procedures. The two CAMs identify inventory valuation and revenue recognition as the accounts
+requiring the most audit judgment and effort — the same two accounts this analysis independently
+identified as the highest-risk areas from public data alone.
 
-## 7. Both-sides discipline (for the interview)
+## 7. Counterarguments considered
 
-For each sharp claim, hold the seller's rebuttal:
+Each observation above was tested against the position a seller would take:
 
-- **"COSO mismatch proves a cover-up."** Seller: management maps weaknesses to the specific failed
-  *controls*; entity-level tone is a matter of judgment EY and management genuinely disagreed on, and
-  the Special Committee's remediation addresses governance separately. → Your line: I'm not alleging
-  concealment; I'm noting the disclosed weaknesses are necessary but arguably **not sufficient** to
-  cover what EY described, and that gap is a diligence question, not an accusation.
-- **"Adverse ICFR = the numbers are wrong."** Wrong — clean FS opinion. Adverse ICFR raises the
-  *probability* of undetected error; it does not assert one occurred.
-- **"None remediated = uninvestable."** Seller: remediation is underway with a defined plan; a buyer
-  prices and structures around it (escrow, milestones, Day-1 finance build). → This is where the
-  **negative EBITDA adjustment** for a compliant finance function comes from.
+- **On the COSO mismatch.** A seller would argue that management maps weaknesses to the specific
+  controls that failed, that entity-level tone was a matter of genuine judgment on which the
+  predecessor auditor and management disagreed, and that the Special Committee's remediation
+  addresses governance separately. The position taken here is deliberately narrower than
+  concealment — the disclosed weaknesses are necessary but arguably not sufficient, which is a
+  scoping question for confirmatory diligence.
+- **On the adverse ICFR opinion.** It does not follow that the reported figures are wrong; the
+  financial-statement opinion is unqualified. An adverse ICFR opinion raises the *probability* of
+  an undetected material misstatement without asserting that one occurred.
+- **On unremediated weaknesses.** A seller would note that remediation is underway against a
+  defined plan. The buy-side response is not to decline the asset but to price and structure around
+  it — escrow, remediation-linked closing conditions, and a funded Day-1 finance build, the last of
+  which is the basis for the negative EBITDA adjustment described in the methodology.
