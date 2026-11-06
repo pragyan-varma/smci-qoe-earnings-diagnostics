@@ -11,6 +11,28 @@ A lookup for a value that was never sourced raises an exception rather than defa
 
 ---
 
+## Scope
+
+**Who it's for.** An investment committee deciding whether to proceed past a letter of intent on
+a take-private of SMCI. It reads the [IC memo](docs/04_ic_memo.md) and the Excel model. Also an
+analyst who would review the model or extend the diagnostics library. Reuse on a second company
+is planned, not done ([#7](https://github.com/pragyan-varma/smci-qoe-earnings-diagnostics/issues/7)).
+These are assumed users, not researched ones, and the committee and transaction are hypothetical.
+See [Assumptions](ROADMAP.md#assumptions).
+
+**In scope.** FY2023–FY2025 annual data from SMCI's public SEC filings (10-K, proxy statements,
+8-K). Phase 1 / pre-LOI work: the EBITDA bridge, net working capital, cash conversion,
+earnings-quality screens, and a governance and controls review.
+
+**Out of scope.** Management interviews or representations, non-public data (trial balance,
+general ledger, inventory aging, customer-level detail), a full Quality of Earnings engagement
+with substantive testing, a valuation opinion, and investment advice.
+
+**Project docs.** [Roadmap](ROADMAP.md) · [Decision log](docs/05_decision_log.md) ·
+[Backlog](https://github.com/pragyan-varma/smci-qoe-earnings-diagnostics/issues)
+
+---
+
 ## Findings
 
 **Reported profit does not convert to cash.** In FY2024 SMCI reported **+$1,153M of net income
@@ -51,6 +73,8 @@ an exposure and mapped to a named confirmatory procedure instead.
 | `docs/02_source_documents.md` | Filings used, note-level disclosures, verification performed, and what is not publicly disclosed |
 | `docs/03_governance_and_controls.md` | Auditor timeline, the two opinions, material weaknesses mapped to COSO, Critical Audit Matters |
 | `docs/04_ic_memo.md` | Three-page Investment Committee memo |
+| `docs/05_decision_log.md` | Design decisions, with the reason and the tradeoff for each |
+| `ROADMAP.md` | Planned work, ordered by dependency, and the assumptions behind the ordering |
 | `finlib/` | Company-agnostic engine: sourced-fact model with provenance, earnings-quality diagnostics (DSO/DIO/DPO/CCC, Sloan accruals, Beneish M-score), Excel styling |
 | `qoe/` | SMCI-specific: validation controls, EBITDA bridge, net working capital, M-score wiring, workbook and chart generation |
 | `data/source/` | Every fact as a sourced row (`facts*.csv`), adjustments defined declaratively (`adjustments.yaml`), raw SEC XBRL response |
